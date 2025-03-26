@@ -80,3 +80,6 @@ export FZF_DEFAULT_COMMAND='ag --hidden --ignore .git -g ""'
 	> 192.168.0.2
 	> 192.168.0.3
 	> etc... 
+
+Синхронизация двух буферов в сплит моде 
+	> :set scrollbind (в обоих буферах)
